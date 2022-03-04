@@ -1,5 +1,5 @@
 ---
-title: "ChIP-Seq"
+title: "scGenomics"
 author: "CHENEL Hugo"
 output: html_notebook
 editor_options: 
